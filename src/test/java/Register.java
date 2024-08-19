@@ -10,5 +10,6 @@ public class Register {
     driver.get("https://demo.automationtesting.in/Register.html");
     driver.manage().window().maximize();
     driver.findElement(By.xpath("//p[@class=\"fc-button-label\"]")).click();
+
 }
 }
