@@ -74,10 +74,6 @@ public class Register {
     driver.findElement(By.id("firstpassword")).sendKeys("Abcd@9876");
     driver.findElement(By.id("secondpassword")).sendKeys("Abcd@9876");
     driver.findElement(By.id("submitbtn")).click();
-    WebElement uploadpic = driver.findElement(By.id("imagesrc"));
-    uploadpic.sendKeys("D:\\rose.jpg");
-
-
 
 }
 }
