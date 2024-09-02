@@ -3,4 +3,4 @@
 3. This application allows you to interact with various **input fields, checkboxes, radio buttons, and dropdown menus**, allowing for comprehensive testing of form automation techniques.
 4. One will understand the challenges with dynamic elements like **date pickers and progress bars**, which are common in modern web applications.
 5. By working on this application, I gained practical experience that made me understand various automation concepts and tools.
-6. This is a great application to build and enhance your confidence in automation testing.
+6. This is a great application that helped me to build and enhance confidence in automation testing.
